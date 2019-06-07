@@ -63,7 +63,7 @@ export default class ZContact extends React.Component {
                     <a ><Invisible size='12'/></a>
                     <a href="https://twitter.com/BTCHush"><Twitter size='40'/></a>
                     <a ><Invisible size='12'/></a>
-                    <a href="https://reddit.com/r/Myhush"><Reddit size='40'/></a>
+                    <a href="https://www.reddit.com/r/btchush/"><Reddit size='40'/></a>
                     <a ><Invisible size='12'/></a>
                     <a href="https://bitcointalk.org/index.php?topic=2827088.0"><Bitcointalk size='40'/></a>
                     <a ><Invisible size='12'/></a>

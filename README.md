@@ -1,6 +1,6 @@
 # Bitcoin Hush web wallet
 
-Bitcoin Hush (BTCH) web wallet is a client-side browser-based wallet for Hush.
+Bitcoin Hush (BTCH) web wallet is a client-side browser-based wallet for Bitcoin Hush.
 
 This project is a port of MyZenWallet https://github.com/ZencashOfficial/myzenwallet which was inspired by MyEtherWallet.
 

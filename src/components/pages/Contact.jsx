@@ -61,7 +61,7 @@ export default class ZContact extends React.Component {
                   <p style={styles.center}>
                     <a href="https://myhush.org/discord/index.html"><Discord size='40'/></a>
                     <a ><Invisible size='12'/></a>
-                    <a href="https://twitter.com/MyHushTeam"><Twitter size='40'/></a>
+                    <a href="https://twitter.com/BTCHush"><Twitter size='40'/></a>
                     <a ><Invisible size='12'/></a>
                     <a href="https://reddit.com/r/Myhush"><Reddit size='40'/></a>
                     <a ><Invisible size='12'/></a>

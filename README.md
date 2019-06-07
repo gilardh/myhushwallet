@@ -11,7 +11,7 @@ Unofficial verison can be found on https://???? - development/playing purposes
 
 # Dev
 ```shell
-yarn watch # Installing files
+yarn install # Installing files
 yarn watch # watch and regenerate files
 yarn start # start local host server
 ```

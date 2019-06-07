@@ -1,4 +1,4 @@
-# myhushwallet
+# Bitcoin Hush web wallet
 
 Bitcoin Hush (BTCH) web wallet is a client-side browser-based wallet for Hush.
 

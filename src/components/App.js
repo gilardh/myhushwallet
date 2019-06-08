@@ -92,7 +92,7 @@ class App extends Component {
             <Menu size='30' style={styles.headerIcons} />
           </a>
         )}
-        <Hush size='30' color='#fff'/><span> Hush Wallet</span>
+        <Hush size='30' color='#fff'/><span> BITCOIN HUSH WALLET</span>
       </span>
     )
 

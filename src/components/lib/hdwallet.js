@@ -1,4 +1,5 @@
-var bitcoinjs = require('bitcoinjs-lib');
+//var bitcoinjs = require('bitcoinjs-lib');
+var bitgotx = require('bitgo-utxo-lib');
 var bip32utils = require('bip32-utils');
 //var hushjs = require('hushjs');
 //var bs58check = require('bs58check');
@@ -9,8 +10,11 @@ function phraseToHDWallet(phraseStr) {
   // phraseStr: string
   const seedHex = Buffer.from(phraseStr).toString('hex')
 
+  //Set Network
+  var network = this.props.settings.useTestNet ? bitgotx.networks.komodo : bitgotx.networks.komodo; // komodo has bitcoin prefixes for testnet. Needs network specification in network.
+ 
   // chains
-  const hdNode = bitcoinjs.HDNode.fromSeedHex(seedHex)
+  const hdNode = bitgotx.HDNode.fromSeedHex(seedHex, network)
   var chain = new bip32utils.Chain(hdNode)
 
   // Creates 43 address from the same chain
@@ -23,7 +27,6 @@ function phraseToHDWallet(phraseStr) {
   
   return privateKeys
 }
-
 
 export default {
   phraseToHDWallet: phraseToHDWallet  

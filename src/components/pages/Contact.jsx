@@ -74,6 +74,10 @@ export default class ZContact extends React.Component {
                   </p>
                 </div>
              </p>
+
+            <br/>
+            <br/>
+            <p style={styles.center}>Copyright © 2016-2020 The Hush developers. All rights reserved.<br/>v2.0.10</p>
           </Col>
         </Row>
       </Container>

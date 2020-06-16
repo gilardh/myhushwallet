@@ -5,7 +5,7 @@
   "description": "Secure Hush wallet online",
   "main": "index.js",
   "repository": "https://github.com/MyHush/myhushwallet.git",
-  "homepage": "https://gilardh.github.io/myhushwallet/",
+  "homepage": "https://MyHush.github.io/myhushwallet/",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",

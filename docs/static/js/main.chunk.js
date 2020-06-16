@@ -26,7 +26,7 @@ exports.push([module.i, "body {\r\n  margin: 0;\r\n  padding: 0;\r\n  font-famil
 /*! exports provided: name, version, private, description, main, repository, homepage, license, dependencies, scripts, devDependencies, browserslist, default */
 /***/ (function(module) {
 
-module.exports = {"name":"myhushwallet","version":"v2.0.10","private":true,"description":"Secure Hush wallet online","main":"index.js","repository":"https://github.com/MyHush/myhushwallet.git","homepage":"https://gilardh.github.io/myhushwallet/","license":"MIT","dependencies":{"axios":"^0.18.0","bip32-utils":"^0.11.1","bitcoinjs-lib":"^3.0.0","bitgo-utxo-lib":"git+https://github.com/MyHush/bitgo-utxo-lib.git","bluebird":"^3.5.0","bootstrap":"^4.1.3","bs58check":"^2.1.2","file-loader":"^3.0.1","file-saver":"^2.0.0","gh-pages":"^2.2.0","npm":"^6.9.0","prop-types":"^15.6.2","qrcode.react":"^0.9.1","react":"^16.6.0","react-copy-to-clipboard":"^5.0.1","react-dom":"^16.7.0","react-router-dom":"^4.3.1","react-scripts":"^2.1.8","react-sidebar":"^2.3.2","react-table":"^6.8.6","reactstrap":"^7.0.2","secp256k1":"^3.6.1"},"scripts":{"start":"react-scripts start","build":"react-scripts build","test":"react-scripts test --env=jsdom","eject":"react-scripts eject","predeploy":"npm run build","deploy":"gh-pages -d build"},"devDependencies":{"@babel/cli":"^7.0.0","@babel/core":"^7.2.2"},"browserslist":[">0.2%","not dead","not ie <= 11","not op_mini all"]};
+module.exports = {"name":"myhushwallet","version":"v2.0.10","private":true,"description":"Secure Hush wallet online","main":"index.js","repository":"https://github.com/MyHush/myhushwallet.git","homepage":"https://MyHush.github.io/myhushwallet/","license":"MIT","dependencies":{"axios":"^0.18.0","bip32-utils":"^0.11.1","bitcoinjs-lib":"^3.0.0","bitgo-utxo-lib":"git+https://github.com/MyHush/bitgo-utxo-lib.git","bluebird":"^3.5.0","bootstrap":"^4.1.3","bs58check":"^2.1.2","file-loader":"^3.0.1","file-saver":"^2.0.0","gh-pages":"^2.2.0","npm":"^6.9.0","prop-types":"^15.6.2","qrcode.react":"^0.9.1","react":"^16.6.0","react-copy-to-clipboard":"^5.0.1","react-dom":"^16.7.0","react-router-dom":"^4.3.1","react-scripts":"^2.1.8","react-sidebar":"^2.3.2","react-table":"^6.8.6","reactstrap":"^7.0.2","secp256k1":"^3.6.1"},"scripts":{"start":"react-scripts start","build":"react-scripts build","test":"react-scripts test --env=jsdom","eject":"react-scripts eject","predeploy":"npm run build","deploy":"gh-pages -d build"},"devDependencies":{"@babel/cli":"^7.0.0","@babel/core":"^7.2.2"},"browserslist":[">0.2%","not dead","not ie <= 11","not op_mini all"]};
 
 /***/ }),
 
@@ -1909,13 +1909,13 @@ function (_React$Component) {
         },
         __self: this
       }, "Go to ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://wallet.myhush.org",
+        href: "https://MyHush.github.io/myhushwallet/",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 28
         },
         __self: this
-      }, "https://wallet.myhush.org")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("li", {
+      }, "https://MyHush.github.io/myhushwallet/")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("li", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 29
@@ -1984,13 +1984,13 @@ function (_React$Component) {
         },
         __self: this
       }, "If you've created a wallet on ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://wallet.myhush.org",
+        href: "https://MyHush.github.io/myhushwallet/",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 39
         },
         __self: this
-      }, "https://wallet.myhush.org"), " via the secret phrase, simply re-enter the same phrase."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("li", {
+      }, "https://MyHush.github.io/myhushwallet/"), " via the secret phrase, simply re-enter the same phrase."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("li", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 40

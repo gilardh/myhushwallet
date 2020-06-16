@@ -6,9 +6,6 @@ This project is a port of MyZenWallet https://github.com/ZencashOfficial/myzenwa
 
 Officially at: https://MyHush.github.io/myhushwallet/
 
-
-Unofficial verison can be found on https://myhushwallet.tsdb.eu - development/playing purposes
-
 # Running locally
 Download dist folder containing: index.html, faq.html, guide.html, favicon.ico, Javascript folder (js) and double click `index.html`
 

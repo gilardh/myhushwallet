@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0cce020b7ec52f6d73bf",
+    "revision": "14f6d19c8bbe00b0da97",
     "url": "/myhushwallet/static/css/main.83f89ca0.chunk.css"
   },
   {
-    "revision": "0cce020b7ec52f6d73bf",
-    "url": "/myhushwallet/static/js/main.1798a46f.chunk.js"
+    "revision": "14f6d19c8bbe00b0da97",
+    "url": "/myhushwallet/static/js/main.c129fd39.chunk.js"
   },
   {
     "revision": "611d97b05c4875bc9c51",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/myhushwallet/static/js/2.2f400369.chunk.js"
   },
   {
-    "revision": "d1ec5a96748c78774f8b7358da50b8e0",
+    "revision": "e0065e06087551a9c7cdbafab3a1d0a3",
     "url": "/myhushwallet/index.html"
   }
 ];

@@ -6,10 +6,6 @@ This project is a port of MyZenWallet https://github.com/ZencashOfficial/myzenwa
 
 Officially at: https://MyHush.github.io/myhushwallet/
 
-# Running locally
-Download dist folder containing: index.html, faq.html, guide.html, favicon.ico, Javascript folder (js) and double click `index.html`
-
-
 # Dev
 ```shell
 yarn watch # watch and regenerate files

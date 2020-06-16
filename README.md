@@ -10,4 +10,8 @@ Officially at: https://MyHush.github.io/myhushwallet/
 ```shell
 yarn watch # watch and regenerate files
 yarn start # start local host server
+
+npm start # start local host server
 ```
+
+
